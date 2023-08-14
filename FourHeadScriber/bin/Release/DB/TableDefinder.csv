@@ -1,0 +1,14 @@
+NAME,TYPE,PATH,ROOT
+STRING,STRING,STRING,STRING
+ENVIRONMENT,STATIC,.\DB\Environment.csv,
+SIGN,STATIC,.\DB\Sign.csv,
+RECIPE_LIST,STATIC,.\DB\RecipeList.csv,
+RECIPE_INFO,STATIC,.\DB\RecipeInfo.csv,
+MOTION_HEAD1,STATIC,.\DB\MotionHead1.csv,
+MOTION_HEAD2,STATIC,.\DB\MotionHead2.csv,
+MOTION_HEAD3,STATIC,.\DB\MotionHead3.csv,
+MOTION_HEAD4,STATIC,.\DB\MotionHead4.csv,
+REPORT_ALIGNMENT,DAILY,.\DB\ReportAlignmentList.csv,.\DB\Alignment
+REPORT_ALIGNMENT_NG,DAILY,.\DB\ReportAlignmentListNG.csv,.\DB\AlignmentNG
+REPORT_CUT,DAILY,.\DB\ReportCutList.csv,.\DB\Cut
+REPORT_CUT_NG,DAILY,.\DB\ReportCutListNG.csv,.\DB\CutNG

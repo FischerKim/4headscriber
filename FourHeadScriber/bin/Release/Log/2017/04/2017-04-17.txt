@@ -1,0 +1,36 @@
+[2017-04-17 10.40.49 630]Begin Inspection
+[2017-04-17 10.40.49 665]Ready On
+[2017-04-17 10.40.50 335]Ready Off
+[2017-04-17 10.40.50 335]End Inspection
+[2017-04-17 10.40.55 864]Begin Inspection
+[2017-04-17 10.40.55 943]Ready On
+[2017-04-17 10.41.05 265]Ready Off
+[2017-04-17 10.41.05 265]End Inspection
+[2017-04-17 10.41.06 584]Begin Inspection
+[2017-04-17 10.41.06 664]Ready On
+[2017-04-17 10.41.07 635][0]Start Alignment
+[2017-04-17 10.41.07 745][0]Fail Alignment due to Not matched recipe
+[2017-04-17 10.41.08 320]Ready Off
+[2017-04-17 10.41.08 320]End Inspection
+[2017-04-17 10.41.10 701]Begin Inspection
+[2017-04-17 10.41.10 756]Ready On
+[2017-04-17 10.41.21 954]Ready Off
+[2017-04-17 10.41.21 954]End Inspection
+[2017-04-17 10.41.23 018]Begin Inspection
+[2017-04-17 10.41.23 148]Ready On
+[2017-04-17 10.41.25 335][0]Start Alignment
+[2017-04-17 10.41.25 444][0]Fail Alignment due to Not matched recipe
+[2017-04-17 10.41.30 090]Ready Off
+[2017-04-17 10.41.30 091]End Inspection
+[2017-04-17 10.49.39 588]Begin Inspection
+[2017-04-17 10.49.39 654]Ready On
+[2017-04-17 10.49.40 818]Ready Off
+[2017-04-17 10.49.40 819]End Inspection
+[2017-04-17 10.49.44 645]Begin Inspection
+[2017-04-17 10.49.44 728]Ready On
+[2017-04-17 10.52.12 336]Begin Inspection
+[2017-04-17 10.52.12 457]Ready On
+[2017-04-17 10.55.50 376][0]Start Alignment
+[2017-04-17 10.55.50 485][0]Fail Alignment due to Not matched recipe
+[2017-04-17 10.55.56 417]Ready Off
+[2017-04-17 10.55.56 417]End Inspection
